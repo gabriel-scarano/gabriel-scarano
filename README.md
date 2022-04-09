@@ -1,4 +1,4 @@
-## Olá eu sou o Gabriel Scarano, programador e entusiasta de novas tecnologias
+## Olá eu sou o Gabriel Scarano, programador e entusiasta de novas tecnologias 😊
 
 <div align="center">
   <a href="https://github.com/gabriel-scarano">
