@@ -1,4 +1,4 @@
-## Olá eu sou o Gabriel Scarano
+## Olá, eu sou o Gabriel Scarano
 
 <div align="center">
   <a href="https://github.com/gabriel-scarano">
